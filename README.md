@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 # party gallanthe tammudu
 ## behavuiesjd marchuko tamudu
 ##Staging area
+###copyright
+idhi naadhi tammudu 2001=1999
